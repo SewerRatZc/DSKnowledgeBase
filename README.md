@@ -56,4 +56,4 @@
 
 ## 界面展示
 
-![image-20250306000929446](C:\Users\zc\AppData\Roaming\Typora\typora-user-images\image-20250306000929446.png)
+![alt text](image.png)
